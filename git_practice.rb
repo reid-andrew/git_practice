@@ -8,4 +8,8 @@ class GitPractice
 
   # Comment text
 
+  def invert_string
+    new_string = @string.reverse
+  end
+
 end
